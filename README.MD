@@ -186,11 +186,11 @@ La **tabla GOLD** incluye:
 │   ├── CreditCard_Lakehouse.ipynb
 │   └── CreditCard_Lakehouse.html
 ├── data/
-│   ├── creditcard.csv
-│   └── README_data.md
+│   ├── README_data.md
+│   
 ├── reports/
 │   ├── metrics/
-│   └── charts/
+│
 ├── diagrams/
 │   └── lakehouse_architecture.png
 ├── README.md

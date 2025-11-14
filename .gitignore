@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Databricks
+#*.dbc
+#*.html
+#*.db
+#*.r
+#databricks/.*
+#*.out 
+
+# Environment variables / virtual env
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files too large to track
+*.csv
+*.parquet
+*.delta
+*.zip
+
+# VSCode
+.vscode/
